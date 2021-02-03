@@ -1,0 +1,27 @@
+[
+    {
+        "PO": "2410027048",
+        "CUSLOTNO": "TEST CUSTOMER LOT1",
+        "MATCP": "24000043"
+    },
+    {
+        "PO": "2410027049",
+        "CUSLOTNO": "TEST CUSTOMER LOT1,TEST CUSTOMER LOT2",
+        "MATCP": "24000044"
+    },
+    {
+        "PO": "2410027050",
+        "CUSLOTNO": "24000044-1",
+        "MATCP": "24000045"
+    },
+    {
+        "PO": "2410027051",
+        "CUSLOTNO": "TEST CUSTOMER LOT1,TEST CUSTOMER LOT2,TEST CUSTOMER LOT3",
+        "MATCP": "24000046"
+    },
+    {
+        "PO": "2410027054",
+        "CUSLOTNO": "24000044-1",
+        "MATCP": "24000047"
+    }
+]
